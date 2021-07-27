@@ -1,12 +1,11 @@
+
 package test;
 
-
 import dominio.*;
-
 import static java.lang.System.exit;
 import java.util.Scanner;
 
-public class PruebaCuentaBanco {
+public class TestCuentaBanco {
     public static void main(String[] args) throws InterruptedException {
         Cliente c1=new Cliente();
         
